@@ -1,0 +1,46 @@
+# Student Dashboard Website
+
+This is a simple Student Dashboard website created using HTML.
+
+## 📚 Project Pages
+
+- Home Page - `index.html`
+- Login Page - `login.html`
+- Dashboard - `dashboard.html`
+- Profile - `profile.html`
+- Courses - `courses.html`
+- Course Details - `course-detail.html`
+- Assignments - `assignments.html`
+- Timetable - `timetable.html`
+- Notices - `notice.html`
+- Support - `support.html`
+
+## 🛠️ Technologies Used
+
+- HTML5
+
+## 📌 Features
+
+- Student login page
+- Student dashboard
+- Student profile
+- Course list
+- Course details
+- Assignment page
+- Class timetable
+- Notices and announcements
+- Student support page
+
+## 🚀 How to Run
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open `index.html` in a web browser.
+
+## 👨‍💻 Author
+
+Your Name
+
+## 📄 License
+
+This project is created for educational purposes.
